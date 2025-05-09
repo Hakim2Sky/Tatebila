@@ -1,0 +1,4 @@
+color dark : #004332
+rgb(99, 12, 47)
+text color : #c0a159
+font family: "Minerva Modern Regular"
